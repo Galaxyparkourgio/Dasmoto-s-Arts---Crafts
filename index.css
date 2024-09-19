@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+.title {
+    background-image: url(pattern.jpeg);
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.header {
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.green {
+    background-color: mediumspringgreen;
+}
+
+.coral {
+    background-color: lightcoral;
+}
+
+.blue {
+    background-color: skyblue;
+}
+
+span {
+    font-family:Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
